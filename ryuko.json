@@ -5,14 +5,14 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
+    "BOTNAME": "Ok bot",
+    "BOTOWNER": "Yhana alvarez",
     "PREFIX": "!",
     "OPERATOR": [
-        ""
+        "61573002447775"
     ],
     "ADMINBOT": [
-        ""
+        "61573002447775"
     ],
     "disabledcmds": [],
     "disabledevents": [],
