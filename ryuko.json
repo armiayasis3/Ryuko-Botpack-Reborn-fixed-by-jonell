@@ -6,13 +6,14 @@
     "approval": true,
     "premium": false,
     "BOTNAME": "Ok bot",
-    "BOTOWNER": "Yhana alvarez",
-    "PREFIX": "!",
+    "BOTOWNER": "Botibot",
+    "PREFIX": ".",
     "OPERATOR": [
-        "61573002447775"
+        "61565554550708"
     ],
     "ADMINBOT": [
         "61573002447775"
+        "61565554550708"
     ],
     "disabledcmds": [],
     "disabledevents": [],
